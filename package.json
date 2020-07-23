@@ -1,0 +1,12 @@
+{
+  "name": "embedid-starter",
+  "version": "0.0.0",
+  "description": "Starter files for EmbedID web integration tutorial.",
+  "main": "backend.js",
+  "scripts": {
+    "backend": "node backend.js"
+  },
+  "dependencies": {
+
+  }
+}
